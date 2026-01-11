@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="OrderProcessing.Application/OrderProcessing.Application.csproj" />
+  <Project Path="OrderProcessing.Domain/OrderProcessing.Domain.csproj" />
+  <Project Path="OrderProcessing.Host/OrderProcessing.Host.csproj" />
+  <Project Path="OrderProcessing.Infrastructure/OrderProcessing.Infrastructure.csproj" />
+  <Project Path="OrderProcessing.Tests/OrderProcessing.Tests.csproj" />
+</Solution>
